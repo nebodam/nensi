@@ -1,2 +1,2 @@
 # nensi
-sajt zamarigold
+sajt za marigold
